@@ -1,2 +1,2 @@
 # FinalProject_Swift
-Final project for Mobile Media Development at Texas State University.
+Final app development for my Mobile Media Development course at Texas State University.
